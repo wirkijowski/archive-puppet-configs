@@ -1,0 +1,9 @@
+auto lo
+iface lo inet loopback
+
+auto eth0
+iface eth0 inet static
+		addresss <%= ip %>
+		netmask 255.255.255.0
+		gateway X.X.X.254
+		up route add default gw X.X.X.254

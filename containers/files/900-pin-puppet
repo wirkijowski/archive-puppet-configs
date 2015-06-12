@@ -1,0 +1,3 @@
+Package: puppet
+Pin: release a=lucid-backports
+Pin-Priority: 900

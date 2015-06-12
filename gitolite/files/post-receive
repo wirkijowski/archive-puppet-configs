@@ -1,0 +1,5 @@
+#!/bin/bash
+# GL_REPO=${customer}-${name} -> containers::create
+LXC_PATH=
+umask 022
+#GIT_WORK_TREE=$LXC_PATH/$GL_REPO/rootfs/var/www git checkout -f

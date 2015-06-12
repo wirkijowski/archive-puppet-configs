@@ -1,0 +1,12 @@
+Package: ruby1.8 
+Pin: release a=squeeze-backports
+Pin-priority: 900
+
+Package: puppet
+Pin: release a=squeeze-backports
+Pin-priority: 900
+
+Package: puppetmaster
+Pin: release a=squeeze-backports
+Pin-priority: 900
+

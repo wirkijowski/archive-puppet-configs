@@ -1,0 +1,3 @@
+class rmpmnfs::stop {
+
+}

@@ -1,0 +1,7 @@
+Package: git
+Pin: release a=squeeze-backports
+Pin-priority: 900
+
+Package: gitolite
+Pin: release a=squeeze-backports
+Pin-priority: 900
